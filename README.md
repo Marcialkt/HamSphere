@@ -1,170 +1,180 @@
 # 📻 HamSphere Control Center
 
-Modern control center for amateur radio operators.
+Centro de control moderno para operadores de radioaficionados.
 
-HamSphere Control Center is a next-generation ham radio suite featuring a professional logbook, RF tools, live propagation, DXCC tracking, satellite utilities and digital radio integrations — all inside a single native application.
+HamSphere Control Center es una suite de radioafición de nueva generación que incluye un logbook profesional, herramientas RF, propagación en vivo, seguimiento DXCC, utilidades de satélites e integraciones de radio digital — todo dentro de una única aplicación nativa.
 
-Designed for modern operators, not 2008 software.
-
----
-
-# ✨ Features
-
-## 📋 Smart Logbook
-- Ultra-fast QSO logging
-- Real-time callsign autocomplete
-- Automatic DXCC / CQ / ITU detection
-- Distance & azimuth from locator
-- ADIF & CSV import/export
-- Worked-before detection
-- Compatible with:
-  - WSJT-X
-  - JTDX
-  - Log4OM
-  - HRD
-  - N1MM Logger+
+Diseñado para operadores modernos, no para software de 2008.
 
 ---
 
-## 📡 RF Tools
-Includes professional calculators:
-- Dipole
-- Yagi
-- SWR
-- Coax loss
-- Power ↔ dB
-- MPE exposure
-- Unit converter
-- Amateur band tables
+## ✨ Características
+
+### 📋 Logbook inteligente
+Registro de QSO ultrarrápido  
+Autocompletado en tiempo real de indicativos (callsigns)  
+Detección automática de DXCC / CQ / ITU  
+Distancia y azimut desde locator  
+Importación y exportación ADIF & CSV  
+Detección de contactos previos  
+
+Compatible con:
+- WSJT-X  
+- JTDX  
+- Log4OM  
+- HRD  
+- N1MM Logger+  
 
 ---
 
-## ☀ Live Propagation
-Real-time solar and HF propagation data:
-- SFI
-- K-index
-- A-index
-- Solar wind
-- X-ray flux
-- Band condition matrix
+### 📡 Herramientas RF
+
+Incluye calculadoras profesionales:
+
+- Dipolo  
+- Yagi  
+- ROE (SWR)  
+- Pérdidas en coaxial  
+- Potencia ↔ dB  
+- Exposición MPE  
+- Conversor de unidades  
+- Tablas de bandas de radioaficionado  
 
 ---
 
-## 🛰 Satellite Module
-- ISS live tracking
-- Pass predictions
-- Uplink/downlink references
-- AO-91 / AO-92 / SO-50 support
+### ☀ Propagación en vivo
+
+Datos en tiempo real de propagación HF y solar:
+
+- SFI  
+- Índice K  
+- Índice A  
+- Viento solar  
+- Flujo de rayos X  
+- Matriz de condiciones por banda  
 
 ---
 
-## 📊 Statistics & Awards
-- DXCC tracker
-- Activity heatmaps
-- Band distribution charts
-- Monthly trends
-- Top countries ranking
+### 🛰 Módulo de satélites
+
+- Seguimiento en vivo de la ISS  
+- Predicción de pases  
+- Referencias de uplink/downlink  
+- Soporte para AO-91 / AO-92 / SO-50  
 
 ---
 
-## 🌐 Bilingual
-Native:
-- 🇪🇸 Spanish
-- 🇬🇧 English
+### 📊 Estadísticas y diplomas
 
-Switch instantly with one click.
-
----
-
-# 🚀 Why HamSphere?
-
-Unlike legacy ham radio software:
-
-✅ Modern UI  
-✅ No Java  
-✅ No .NET installation required  
-✅ No accounts  
-✅ No telemetry  
-✅ Works offline  
-✅ Native executable  
-✅ Fast startup  
-✅ Lightweight  
-✅ 100% free
+- Seguimiento DXCC  
+- Mapas de actividad  
+- Gráficos de distribución por banda  
+- Tendencias mensuales  
+- Ranking de países más trabajados  
 
 ---
 
-# 📦 Standalone .EXE Advantages
+### 🌐 Bilingüe
 
-HamSphere ships as a fully self-contained executable.
+Idiomas nativos:
 
-The installer already includes:
-- Embedded Python runtime
-- All dependencies
-- Desktop shortcuts
-- Uninstaller
-- Local backup system
+- 🇪🇸 Español  
+- 🇬🇧 Inglés  
 
-You DO NOT need to install:
-- Python
-- Java
-- .NET
-- External libraries
-
-Just install and operate.
+Cambio instantáneo con un solo clic.
 
 ---
 
-# 💻 Platforms
+## 🚀 ¿Por qué HamSphere?
 
-- 🪟 Windows 10/11
-- 🍎 macOS (coming soon)
-- 🐧 Linux (coming soon)
+A diferencia del software clásico de radioafición:
 
----
-
-# 🔒 Privacy First
-
-HamSphere was built with privacy in mind.
-
-Your logs stay on your PC.
-
-No:
-- cloud lock-in
-- forced login
-- tracking
-- telemetry
-- hidden analytics
+- ✅ Interfaz moderna  
+- ❌ Sin Java  
+- ❌ Sin instalación de .NET  
+- ❌ Sin cuentas obligatorias  
+- ❌ Sin telemetría  
+- ❌ Funciona offline  
+- ✅ Ejecutable nativo  
+- ⚡ Inicio rápido  
+- 💡 Ligero  
+- 🆓 100% gratuito  
 
 ---
 
-# 📥 Installation
+## 📦 Ventajas del ejecutable independiente (.EXE)
 
-1. Download the latest release
-2. Run `HamSphere.exe`
-3. Start logging QSOs
+HamSphere se distribuye como un ejecutable completamente autocontenido.
 
-Done.
+El instalador incluye:
+
+- Runtime de Python integrado  
+- Todas las dependencias  
+- Accesos directos en escritorio  
+- Desinstalador  
+- Sistema de copias de seguridad local  
+
+NO necesitas instalar:
+
+- Python  
+- Java  
+- .NET  
+- Librerías externas  
+
+Solo instala y usa.
+
+---
+
+## 💻 Plataformas
+
+- 🪟 Windows 10/11  
+- 🍎 macOS (próximamente)  
+- 🐧 Linux (próximamente)  
 
 ---
 
-# 🛣 Roadmap
+## 🔒 Privacidad primero
 
-Upcoming Plus & Pro features:
-- LoTW integration
-- eQSL upload
-- CAT control
-- Contest mode
-- WSJT-X bridge
-- Cloud sync
-- Advanced DX cluster filters
-- REST API
+HamSphere fue creado con la privacidad como prioridad.
+
+Tus registros permanecen en tu ordenador.
+
+Sin:
+
+- bloqueo en la nube  
+- inicio de sesión obligatorio  
+- rastreo  
+- telemetría  
+- analíticas ocultas  
+
+---
+
+## 📥 Instalación
+
+1. Descarga la última versión  
+2. Ejecuta HamSphere.exe  
+3. Empieza a registrar QSOs  
+4. Listo  
 
 ---
 
-# 📻 Made by radio amateurs, for radio amateurs
+## 🛣 Hoja de ruta
 
-73 and good DX.
+Próximas funciones Plus & Pro:
+
+- Integración LoTW  
+- Subida a eQSL  
+- Control CAT  
+- Modo concurso  
+- Puente con WSJT-X  
+- Sincronización en la nube  
+- Filtros avanzados de DX Cluster  
+- API REST  
 
 ---
+
+## 📻 Hecho por MarcialKT
+
+73 y buenos DX.
 
 © 2026 HamSphere
