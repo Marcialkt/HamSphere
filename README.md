@@ -1,8 +1,8 @@
-# 📻 HamSphere Control Center
+# 📻 HamOrbit Control Center
 
 Centro de control moderno para operadores de radioaficionados.
 
-HamSphere Control Center es una suite de radioafición de nueva generación que incluye un logbook profesional, herramientas RF, propagación en vivo, seguimiento DXCC, utilidades de satélites e integraciones de radio digital — todo dentro de una única aplicación nativa.
+HamOrbit Control Center es una suite de radioafición de nueva generación que incluye un logbook profesional, herramientas RF, propagación en vivo, seguimiento DXCC, utilidades de satélites e integraciones de radio digital — todo dentro de una única aplicación nativa.
 
 Diseñado para operadores modernos, no para software de 2008.
 
@@ -85,7 +85,7 @@ Cambio instantáneo con un solo clic.
 
 ---
 
-## 🚀 ¿Por qué HamSphere?
+## 🚀 ¿Por qué HamOrbit?
 
 A diferencia del software clásico de radioafición:
 
@@ -104,7 +104,7 @@ A diferencia del software clásico de radioafición:
 
 ## 📦 Ventajas del ejecutable independiente (.EXE)
 
-HamSphere se distribuye como un ejecutable completamente autocontenido.
+HamOrbit se distribuye como un ejecutable completamente autocontenido.
 
 El instalador incluye:
 
@@ -135,7 +135,7 @@ Solo instala y usa.
 
 ## 🔒 Privacidad primero
 
-HamSphere fue creado con la privacidad como prioridad.
+HamOrbit fue creado con la privacidad como prioridad.
 
 Tus registros permanecen en tu ordenador.
 
